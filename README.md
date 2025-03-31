@@ -1,4 +1,11 @@
 # power_bi_sales
+
+Context
+The dataset provided includes anonymized Christmas sales data across various product categories, customer demographics, and marketing campaigns.
+
+Objective: uncover hidden insights of customer behavior during festive season.
+
+
 🎄 Christmas Sales Trend Analysis Power BI Dashboard
 💡 Key Insights:
 
